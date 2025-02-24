@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget{
       return Scaffold(
           body: Container(
             width:double.infinity,
-            decoration: BoxDecoration(gradient: LinearGradient(colors: [Colors.yellow,Colors.red,Colors.lightGreenAccent])),
+            decoration: BoxDecoration(gradient: LinearGradient(colors: [Colors.yellow,Colors.lightGreenAccent])),
             child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.center,
@@ -19,10 +19,10 @@ class HomePage extends StatelessWidget{
                 children: [
                   InkWell(
                       onTap: (){Navigator.push(context, MaterialPageRoute(builder: (context) => YogaPage() ) );},
-                      child: CircleAvatar(radius:150, backgroundImage: AssetImage('assets/pranayama/pranayam.png'),)),
+                      child: CircleAvatar(radius:150, backgroundImage: AssetImage('assets/yoga/yoga2.jpg'),)),
                   InkWell(
                       onTap:(){Navigator.push(context, MaterialPageRoute(builder: (context) => Pranayam() ) );} ,
-                      child: CircleAvatar(radius:150,backgroundImage: AssetImage('assets/yoga/yoga2.jpg'))),
+                      child: CircleAvatar(radius:150,backgroundImage: AssetImage('assets/pranayama/pranayam.png'))),
               ]
             ),
           )
