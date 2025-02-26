@@ -3,7 +3,7 @@
 A new Flutter project.
 
 #  creator
-Founder : Soumirima Ghorai
+#### Founder : Soumirima Ghorai
 Contributor : Loknath Giri
 
 ## Getting Started
