@@ -11,6 +11,7 @@ class HomePage extends StatelessWidget{
       return Scaffold(
           body: Container(
             width:double.infinity,
+            height: double.infinity,
             decoration: BoxDecoration(gradient: LinearGradient(colors: [Colors.yellow,Colors.lightGreenAccent])),
             child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
