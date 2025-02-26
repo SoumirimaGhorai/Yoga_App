@@ -1,5 +1,5 @@
 
-final String Vrikshasana="""
+final String vrikshaSana="""
  Vrikshasana / Tree Pose is a balancing yoga posture that improves stability, concentration, and leg strength. It resembles a tree standing tall and firm, hence the name.
  
 How to Perform Vrikshasana:
@@ -24,7 +24,7 @@ Precautions & Contraindications:
 ❌ People with vertigo or dizziness should practice with caution.
 ❌ Do not press the foot directly on the knee joint.
 """;
-final String Tadasana="""
+final String tadaSana="""
 Tadasana / Mountain Pose, is a fundamental standing yoga posture that helps improve posture, balance, and body awareness. It is often used as a starting position for many other yoga poses.
 
 How to Perform Tadasana:
@@ -47,7 +47,7 @@ Precautions & Contraindications:.
 ❌ If you have low blood pressure, avoid raising your hands overhead for too long.
 ❌ Practice with caution if you have severe foot pain or ankle injuries.
 """;
-final String AdhoMukhaSvasana="""
+final String adhoMukhaSvasana="""
 Adho Mukha Svanasana / Downward-Facing Dog Pose, is a fundamental yoga posture that strengthens the body, improves flexibility, and promotes relaxation. 
 
 How to Perform Adho Mukha Svanasana:
@@ -71,7 +71,7 @@ Precautions & Contraindications:
 ❌ People with high blood pressure or vertigo should practice with caution.
 ❌ If you have tight hamstrings, bend your knees slightly to avoid strain.
 """;
-final String Bhujangasana="""
+final String bhujangaSana="""
 Bhujangasana, also known as Cobra Pose, is a powerful backbend that helps strengthen the spine and improve flexibility.
 
 How to Perform:
@@ -90,7 +90,7 @@ Precautions:
 ❌ Avoid if you have recent abdominal or back surgery.
 ❌ Not suitable for people with hernia or pregnancy.
 """;
-final String Chakrasana="""
+final String chakraSana="""
 Chakrasana, or Wheel Pose, is a deep backbend that enhances flexibility and strength.
 
 How to Perform:
@@ -109,7 +109,7 @@ Precautions:
 ❌ Avoid if you have wrist, back, or shoulder injuries.
 ❌ Not recommended for people with high blood pressure.
 """;
-final String Dhanurasana="""
+final String dhanuraSana="""
 Dhanurasana, or Bow Pose, involves stretching the body in a bow shape, improving flexibility and digestion.
 
 How to Perform:
@@ -128,7 +128,7 @@ Precautions:
 ❌ Avoid if you have back or neck injuries.
 ❌ Not suitable for pregnant women.
 """;
-final String Halasana="""
+final String halaSana="""
 Halasana, or Plow Pose, is an advanced inversion that boosts flexibility and circulation.
 
 How to Perform:
@@ -147,7 +147,7 @@ Precautions:
 ❌ Avoid if you have spinal injuries or high blood pressure.
 ❌ Not suitable for people with neck issues.
 """;
-final String Padmasana="""
+final String padmaSana="""
 Padmasana, or Lotus Pose, is a seated meditation pose that promotes relaxation and focus.
 
 How to Perform:
@@ -167,7 +167,7 @@ Precautions:
 ❌ Avoid if you have knee or hip injuries.
 ❌ Practice with caution if you have sciatic pain.
 """;
-final String Paschimottasana="""
+final String paschimottaSana="""
 Paschimottanasana is a deep forward bend that stretches the spine and hamstrings.
 
 How to Perform:
@@ -186,7 +186,7 @@ Precautions:
 ❌ Avoid if you have back pain or hernia.
 ❌ Do not force the stretch if you feel discomfort.
 """;
-final String Sarvangasana="""
+final String sarvangaSana="""
 Sarvangasana, or Shoulder Stand, is an inversion pose that benefits the entire body.
 
 How to Perform:
@@ -205,7 +205,7 @@ Precautions:
 ❌ Avoid if you have neck or shoulder issues.
 ❌ Not suitable for people with high blood pressure.
 """;
-final String Savasana="""
+final String savaSana="""
 Savasana, or Corpse Pose, is a relaxation pose that rejuvenates the mind and body.
 
 How to Perform:
@@ -222,7 +222,7 @@ Benefits:
 Precautions:
 ❌ Avoid if you have back pain (use a cushion for support).
 """;
-final String Setubandhasana="""
+final String setubandhaSana="""
 Setu Bandhasana is a backbend pose that strengthens the spine and core.
 
 How to Perform:
@@ -238,7 +238,7 @@ Benefits:
 Precautions:
 ❌ Avoid if you have back or neck injuries.
 """;
-final String Suryanamaskar="""
+final String suryaNamakar="""
 Surya Namaskar is a sequence of 12 yoga poses that improve flexibility and energy.
 
 How to Perform:
@@ -261,7 +261,7 @@ Benefits:
 Precautions:
 ❌ Avoid during pregnancy, high blood pressure.
 """;
-final String Trikonasana="""
+final String trikonaSana="""
 Trikonasana / Triangle Pose, is a standing yoga posture that stretches and strengthens the body while improving balance and flexibility.
 
 How to Perform:
@@ -285,7 +285,7 @@ Precautions:
 ❌ Do not overstretch if you have low blood pressure.
 ❌ People with slip disc or sciatica should perform it under supervision.
 """;
-final String Ustrasana="""
+final String ustraSana="""
 Ustrasana, or Camel Pose, is a deep backbend that stretches the front body and strengthens the back muscles.
 
 How to Perform:

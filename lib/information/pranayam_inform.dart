@@ -1,4 +1,4 @@
-final String Bhastrika ="""
+final String bhastrika ="""
 Bhastrika Pranayama, also known as "Bellows Breath," is a powerful breathing exercise that increases oxygen supply and energy levels.
 
 How to Perform:
@@ -20,7 +20,7 @@ Precautions:
 ❌ Not suitable for people with epilepsy or anxiety disorders.
 ❌ Pregnant women should avoid it.
 """;
-final String Bharamari="""
+final String bharamari="""
 Bhramari Pranayama, or "Humming Bee Breath," is a calming breath technique that relaxes the nervous system.
 
 How to Perform:
@@ -41,7 +41,7 @@ Precautions:
 ❌ Do not press too hard on the eyes
 ❌ People with severe depression should consult a doctor
 """;
-final String Chandrabhedana="""
+final String chandrabhedana="""
 Chandrabhedana is a cooling pranayama that activates the lunar energy (Chandra Nadi) to calm the mind and body.
 
 How to Perform:
@@ -62,7 +62,7 @@ Precautions:
 ❌ Not suitable during winters or cold weather
 ❌ People with asthma should be cautious
 """;
-final String Kapalbhati="""
+final String kapalbhati="""
 Kapalabhati is a detoxifying breathing technique that clears the lungs and boosts energy.
 
 How to Perform:
@@ -83,7 +83,7 @@ Precautions:
 ❌ Not suitable for pregnant women
 ❌ People with gastric issues should avoid
 """;
-final String Nadishodhona="""
+final String nadishodhona="""
 Nadi Shodhana / "Alternate Nostril Breathing," purifies the energy channels and balances the mind.
 
 How to Perform:
@@ -104,7 +104,7 @@ Precautions:
 ❌ Avoid if you have severe nasal congestion
 ❌ Not suitable for people with low blood pressure
 """;
-final String  Shitali="""
+final String  shitali="""
 Sheetali Pranayama is a cooling technique that reduces body heat and calms the mind.
 
 How to Perform:
@@ -124,7 +124,7 @@ Precautions:
 ❌ Avoid if you have low blood pressure or cold
 ❌ Not recommended in winter season
 """;
-final String Suryabhedana="""
+final String suryabhedana="""
 Surya Bhedana activates the solar energy (Pingala Nadi) to energize and warm the body.
 
 How to Perform:
@@ -143,7 +143,7 @@ Precautions:
 ❌ Avoid if you have high blood pressure
 ❌ Not recommended in hot weather
 """;
-final String Ujjayi="""
+final String ujjayi="""
 Ujjayi is a warming breath technique that regulates breath and improves focus.
 
 How to Perform:
