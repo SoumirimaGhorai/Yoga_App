@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+#  creator
+Founder : Soumirima Ghorai
+Contributor : Loknath Giri
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
